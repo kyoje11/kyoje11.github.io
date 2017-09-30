@@ -5,8 +5,8 @@
 
 # Site
 title: Nesoy Blog
-subtitle: Programmer
-description: 묘사
+subtitle: Que Sera Sera
+description: Software Programmer
 author: 권영재
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: ko
@@ -19,7 +19,7 @@ baseurl:
 permalink: /articles/:year-:month/:title
 
 # Pagination
-paginate: 10
+paginate: 6
 #paginate_path: "/page:num/"
 #archive:
   #paginate: 10
@@ -92,7 +92,7 @@ rss:
 authoricon: heart
 
 # Footer `powered-by` and `theme-info` copyright
-copyright: true
+#copyright: true
 
 # ---------------------------------------------------------------
 # SEO Settings
@@ -232,7 +232,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-#avatar:
+avatar: /assets/images/YoungJae.jpg
 
 
 # Table Of Contents in the Sidebar
@@ -379,7 +379,7 @@ han: false
 
 # Disqus
 disqus:
-  enable: false
+  enable: true
   shortname: nesoy
   count: true
   # hide comments (visitors need to click to load the comments)
@@ -426,7 +426,7 @@ changyan:
 #google_site_verification:
 
 # Google Analytics
-#google_analytics:
+google_analytics: UA-89701804-1
 
 # Yandex Webmaster tools verification setting
 # See: https://webmaster.yandex.ru/
