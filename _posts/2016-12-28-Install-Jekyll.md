@@ -11,7 +11,7 @@ date: 2016-12-28
 
 # **Jekyll 설치하기(Window)**
 
-![No Image](/assets/posts/posts/20161228/jekyll_logo.png)
+![No Image](/assets/posts/20161228/jekyll_logo.png)
 
 ## Jekyll
 
@@ -30,15 +30,15 @@ date: 2016-12-28
 - #### [http://rubyinstaller.org/downloads/](http://rubyinstaller.org/downloads/)
 
 - #### PC환경에 맞게 Download
-![No Image](/assets/posts/posts/20161228/ruby_down.PNG)
+![No Image](/assets/posts/20161228/ruby_down.PNG)
 - #### 환경변수에 자동으로 넣어주는 Option Check
-![No Image](/assets/posts/posts/20161228/ruby_path.PNG)
+![No Image](/assets/posts/20161228/ruby_path.PNG)
 
 - ### DevKit 설치하기
   - #### [http://rubyinstaller.org/downloads/](http://rubyinstaller.org/downloads/)
 
 - #### PC환경에 맞게 Download
-![No Image](/assets/posts/posts/20161228/ruby_devkit.PNG)
+![No Image](/assets/posts/20161228/ruby_devkit.PNG)
 
 - #### DevKit 디렉토리 만들기
   - #### C:\RubyDevkit
@@ -49,14 +49,14 @@ date: 2016-12-28
   - #### ruby dk.rb install
 
   - #### 성공화면
-  ![No Image](/assets/posts/posts/20161228/ruby_success.PNG)
+  ![No Image](/assets/posts/20161228/ruby_success.PNG)
 
 ## 3. Jekyll 설치하기
 - #### gem을 이용하여 Jekyll 설치하기 (권한 요청하면 주기)
   - #### gem install jekyll
 
   - ##### 성공화면
- ![No Image](/assets/posts/posts/20161228/jekyll_down.PNG)
+ ![No Image](/assets/posts/20161228/jekyll_down.PNG)
 
   미리설치한 관계로 숫자가 적지만 원래 더 많습니다.
 
@@ -64,7 +64,7 @@ date: 2016-12-28
   - #### gem install rouge
 
   #### 성공화면
-  ![No Image](/assets/posts/posts/20161228/rouge_down.PNG)
+  ![No Image](/assets/posts/20161228/rouge_down.PNG)
 
 ## 4. Python 설치하기
   - #### [https://www.python.org/downloads/](https://www.python.org/downloads/)
