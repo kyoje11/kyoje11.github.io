@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://kyoje11.github.io/sitemap.xml
+Sitemap: http://nesoy.github.io/sitemap.xml
